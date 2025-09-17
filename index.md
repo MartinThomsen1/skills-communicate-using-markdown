@@ -6,3 +6,4 @@ testing
 ```sql
 SELECT *
 FROM database
+
